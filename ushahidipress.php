@@ -93,7 +93,8 @@ class Ushahidi_Embed {
 				"width" => null,
 				),
 			$attr);
-			
+		
+		$url = trim($url);	
 		if ( ereg( '/([0-9]+)/?$', $url, $match) )
 		{
 			$incident_id = $match[1];
