@@ -6,7 +6,7 @@
 1.  Enjoy
 
 ## Usage ##
-Use the [ushahidi] [/ushahidi] within your blog post
+Use the [ushahidi] [/ushahidi] tags within your blog post
 Example: [ushahidi]http://linkto.an.ushahidi.report.com/report/view/123[/ushahidi]
 
 ## Demo ##
