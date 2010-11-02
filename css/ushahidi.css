@@ -1,0 +1,26 @@
+.ushahidi_map{
+	width: 350px;
+	height:350px;
+	margin-left: auto;
+	margin-right: auto;
+	border:3px solid #ccc;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.ushahidi_title{
+	font-size:13px;
+	font-weight:bold;
+	margin-bottom:10px;
+}
+
+.ushahidi_description{
+	font-size:10px;
+	padding:5px;
+	background-color:#eee;
+	border:1px solid #ccc;
+	margin-bottom:10px;
+}
+
+.ushahidi_more{
+	font-size:10px;
+}
