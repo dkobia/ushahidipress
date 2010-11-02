@@ -4,7 +4,7 @@ Plugin Name: Ushahidi for Wordpress
 Plugin URI: http://dkfactor.com/2010/11/02/ushahidipress/
 Description: Embed Ushahidi Maps in your Blog Post
 Author: David Kobia
-Version: 0.2
+Version: 0.2.1
 Author URI: http://www.dkfactor.com/
 */
 
@@ -30,7 +30,7 @@ Author URI: http://www.dkfactor.com/
  * @author	   David Kobia <david@dkfactor.com>
  * @copyright  Copyright 2010 David Kobia
  * @license	   http://www.gnu.org/licenses/gpl.txt GPL 2.0
- * @version	   0.2
+ * @version	   0.2.1
  * @link	   http://www.dkfactor.com
  */
 
